@@ -1,0 +1,1 @@
+06-06 22:02:38.509: E/AndroidRuntime(32228): CvException [org.opencv.core.CvException: /home/reports/ci/slave/50-SDK/opencv/modules/core/src/lapack.cpp:962: error: (-215) m == n in function double cv::invert(cv::InputArray, cv::OutputArray, int)

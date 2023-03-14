@@ -1,0 +1,2 @@
+javac -cp "C:\Program Files\Android\android-sdk\platforms\android-16\android.jar" MyReconstruction.java 
+javah -classpath D:\myapps\myjava\MobileDepthFinder\src;"C:\Program Files\Android\android-sdk\platforms\android-16\android.jar" overhorizon.mobiledepthfinder.MyReconstruction
